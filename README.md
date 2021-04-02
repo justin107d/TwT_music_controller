@@ -2,6 +2,7 @@
 django/react project created by following along with TechWithTim
 
 Youtube Playlist: https://www.youtube.com/watch?v=JD-age0BPVo&list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j
+
 Github: https://github.com/techwithtim/Music-Controller-Web-App-Tutorial
 
 
